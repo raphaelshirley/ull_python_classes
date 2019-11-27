@@ -1,5 +1,0 @@
-pyvo
-astroquery
-pymoc
-healpy
-ipyaladin
