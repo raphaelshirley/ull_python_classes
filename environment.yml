@@ -34,3 +34,8 @@ dependencies:
         - tensorflow
         - edward
         - psrecord
+        - pyvo
+        - astroquery
+        - pymoc
+        - healpy
+        - ipyaladin
