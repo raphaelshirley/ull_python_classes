@@ -1,0 +1,85 @@
+# TNS_ID                            ra_TNS       dec_TNS       ZTF_ID       redshift_TNS noche     telescopio
+  2019qfb                           20:45:12.035 -12:00:39.94  ZTF19abxekxi 0.1423       11oct2019 IAC80     
+  2019rsi                           00:42:23.531 +41:11:52.18  ZTF19acbzgog ""           11oct2019 IAC80     
+  2019sik                           22:20:12.225 +17:36:40.53  ZTF19accobqx ""           11oct2019 IAC80     
+  2019sft                           00:15:36.624 +20:01:30.20  ZTF19acdpmzy ""           11oct2019 IAC80     
+  2019skb                           21:33:52.051 +33:53:39.51  ZTF19acedfpz ""           11oct2019 IAC80     
+  2019sdq                           01:33:25.091 +23:45:13.20  ZTF19acdgafe ""           11oct2019 IAC80     
+  2019sdv                           01:57:42.150 +13:23:25.44  ZTF19acdgyxw ""           11oct2019 IAC80     
+  2019sjz                           03:10:30.471 +05:13:42.80  ZTF19acdigzw ""           11oct2019 IAC80     
+  2019ska                           03:20:08.145 -12:13:24.92  ZTF19aceetrx ""           11oct2019 IAC80     
+  2019seb                           05:53:44.285 +14:12:39.50  ZTF19acdkmen ""           11oct2019 IAC80     
+  2019sjn                           07:40:43.125 +17:52:24.82  ZTF19acdjlfy ""           11oct2019 IAC80     
+  2019sjx                           08:30:14.975 +39:53:32.44  ZTF19acdabep ""           11oct2019 IAC80     
+  2019rub                           18:05:21.561 +44:57:32.39  ZTF19accedxz ""           12oct2019 IAC80     
+  2019ruh                           22:25:40.754 +18:35:12.81  ZTF19accmxtw ""           12oct2019 IAC80     
+  2019sld                           20:44:32.058 +71:03:36.84  ZTF18acavmlk ""           12oct2019 IAC80     
+  2019sgo                           22:17:10.418 +11:55:39.12  ZTF19acbkyma 0.096        12oct2019 IAC80     
+  M31_centro                        00:42:44.3   +41:16:09     ""           ""           12oct2019 IAC80     
+  2019sgu                           00:54:44.473 +46:38:57.30  ZTF19acdnvwk ""           12oct2019 IAC80     
+  2019shx                           02:32:02.850 +46:05:50.50  ZTF19acchaza ""           12oct2019 IAC80     
+  2019sjs                           02:58:40.467 -06:01:02.16  ZTF19acegibs ""           12oct2019 IAC80     
+  2019sdu                           02:28:27.057 +22:25:47.00  ZTF19acdgwng ""           12oct2019 IAC80     
+  2019sjt                           07:35:10.034 +40:47:11.98  ZTF19acduepd ""           12oct2019 IAC80     
+  2019shn                           03:33:32.752 -11:18:18.42  ZTF19aceaott ""           12oct2019 IAC80     
+  2019sdg                           07:26:12.108 +46:26:02.40  ZTF17aabwial ""           12oct2019 IAC80     
+  2019sjv                           08:16:31.976 +47:58:48.71  ZTF19acefwqk ""           12oct2019 IAC80     
+  2019sio                           07:39:53.051 -02:58:50.66  ZTF17aabwkio ""           12oct2019 IAC80     
+  UGC4305                           08:19:04.98  +70:43:12.1   ""           4.7E-4       12oct2019 IAC80     
+  2019rub                           18:05:21.561 +44:57:32.39  ZTF19accedxz ""           18oct2019 INT       
+  2019qfb                           20:45:12.035 -12:00:39.94  ZTF19abxekxi 0.1423       18oct2019 INT       
+  2019sld                           20:44:32.058 +71:03:36.84  ZTF18acavmlk ""           18oct2019 INT       
+  2019skb                           21:33:52.051 +33:53:39.51  ZTF19acedfpz ""           18oct2019 INT       
+  2019sox                           21:31:24.760 +02:29:38.97  ZTF19acfejbj 0.01         18oct2019 INT       
+  M31PNV                            00:43:49.487 +41:26:02.596 ZTF19abtrjqg ""           18oct2019 INT       
+  2019rsi                           00:42:23.531 +41:11:52.18  ZTF19acbzgog ""           18oct2019 INT       
+  2019ruh                           22:25:40.754 +18:35:12.81  ZTF19accmxtw ""           18oct2019 INT       
+  2019smg                           22:45:33.494 -08:45:10.48  ZTF19acennqf ""           18oct2019 INT       
+  2019sgu                           00:54:44.473 +46:38:57.30  ZTF19acdnvwk 0.050055     18oct2019 INT       
+  2019sdq                           01:33:25.091 +23:45:13.20  ZTF19acdgafe ""           18oct2019 INT       
+  2019sdu                           02:28:27.057 +22:25:47.00  ZTF19acdgwng ""           18oct2019 INT       
+  2019ska                           03:20:08.145 -12:13:24.92  ZTF19aceetrx ""           18oct2019 INT       
+  2019sgg                           01:01:11.770 +14:01:35.40  ZTF19abuyuwa 0.5726       18oct2019 INT       
+  2019sjs                           02:58:40.467 -06:01:02.16  ZTF19acegibs ""           18oct2019 INT       
+  2019sjz                           03:10:30.471 +05:13:42.80  ZTF19acdigzw ""           18oct2019 INT       
+  2019sjn                           07:40:43.125 +17:52:24.82  ZTF19acdjlfy ""           18oct2019 INT       
+  2019sjt                           07:35:10.034 +40:47:11.98  ZTF19acduepd ""           18oct2019 INT       
+  2019sjx                           08:30:14.975 +39:53:32.44  ZTF19acdabep ""           18oct2019 INT       
+  2019ssu                           23:48:19.940 +54:18:54.76  ZTF19acenkuz ""           19oct2019 INT       
+  2019stj                           00:44:45.830 +46:54:15.64  ZTF19acdhckv ""           19oct2019 INT       
+  2019stv                           23:10:44.890 -06:25:13.02  ZTF19acfwvdr ""           19oct2019 INT       
+  2019stm                           00:40:05.044 +39:53:57.27  ZTF19acfsteg ""           19oct2019 INT       
+  M31NE                             00:43:49.486 +41:26:02.598 ZTF19abtrjqg ""           19oct2019 INT       
+  ZTF19abtrjqg_PNVJ00434950+4126028 00:43:49.486 +41:26:02.598 ZTF19abtrjqg ""           19oct2019 INT       
+  2019rsi_CCD2                      00:42:23.531 +41:11:52.18  ZTF19acbzgog ""           19oct2019 INT       
+  2019sxc_CCD1                      00:43:01.545 +41:17:59.62  ZTF19acgfhfd ""           19oct2019 INT       
+  2019stw                           01:20:51.338 -03:52:26.75  ZTF19acfxayk ""           19oct2019 INT       
+  2019stx                           01:39:36.412 -00:26:48.03  ZTF19acfxbki ""           19oct2019 INT       
+  2019sto                           01:47:07.932 +15:47:33.57  ZTF19acfvslh ""           19oct2019 INT       
+  2019stn                           00:36:37.586 +29:44:18.14  ZTF19acfvmzm ""           19oct2019 INT       
+  2019sty                           02:29:47.077 -17:55:31.81  ZTF19acgcdlq ""           19oct2019 INT       
+  2019sub                           03:55:32.827 +25:44:44.44  ZTF19acdjuvn ""           19oct2019 INT       
+  2019stt                           02:56:09.975 +75:13:07.26  ZTF19acdgeow ""           19oct2019 INT       
+  2019suo                           04:17:52.421 -00:27:30.67  ZTF19acgczaj ""           19oct2019 INT       
+  2019sun                           06:22:23.646 +55:42:50.91  ZTF19acgcqjs ""           19oct2019 INT       
+  2019sui                           07:25:00.711 +66:56:25.33  ZTF19acezjqu ""           19oct2019 INT 
+ 2019soy  17:24:30.746 +23:49:45.54 ZTF19acewhhp   ""     18oct2019 IAC80
+2019spn  19:26:39.268 +70:40:22.12 ZTF19acewlxo  ""      18oct2019 IAC80
+2019slq  22:15:03.607 -12:32:34.13 ZTF19acelcan  0.044   18oct2019 IAC80
+2019spm  20:48:32.444 +01:34:38.13 ZTF19acerbty  ""      18oct2019 IAC80
+2019smg  22:45:33.494 -08:45:10.48 ZTF19acennqf  0.050055 18oct2019 IAC80
+2019sna  23:18:56.512 -10:10:34.98 ZTF19aceshib  0.048   18oct2019 IAC80 
+2019soh  23:54:22.124 +34:21:01.48 ZTF19acetxvq  ""      18oct2019 IAC80 
+2019slt  23:05:52.692 +44:24:11.04 ZTF19acdcgqm  ""      18oct2019 IAC80
+2019snx  00:15:06.208 +14:14:21.07 ZTF19accavuw  ""      18oct2019 IAC80
+2019soj  00:57:27.268 +20:14:42.61 ZTF19acetypv  ""      18oct2019 IAC80
+2019sqp  02:18:46.983 +25:44:17.74 ZTF19acfsvfo   ""     18oct2019 IAC80
+2019ssg  22:36:28.581 -07:38:02.20 ZTF19acftbsn ""       19oct2019 IAC80
+2019ssh  22:36:45.723 -10:03:55.25 ZTF19acftbcm ""       19oct2019 IAC80
+2019ssj  00:36:25.352 +02:25:40.16 ZTF19acfthre 0.04     19oct2019 IAC80
+2019slw  04:14:48.196 +25:40:01.56 ZTF19acepeea ""       19oct2019 IAC80
+2019ssk  00:18:11.724 +15:48:20.32 ZTF19acftjsn ""       19oct2019 IAC80
+2019ssv  01:26:19.059 +74:01:58.11 ZTF19acdytef ""       19oct2019 IAC80
+2019ste  04:22:00.776 +36:20:00.53 ZTF19acevlfc ""       19oct2019 IAC80
+2019svb  05:29:28.728 -01:43:12.34 ZTF19acgcshq ""       19oct2019 IAC80
+     
