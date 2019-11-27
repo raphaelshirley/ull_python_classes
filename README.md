@@ -2,6 +2,10 @@
 2nd ASTERICS-OBELICS International School
 
 
+MyBinder:
+https://mybinder.org/v2/gh/raphaelshirley/ull_python_classes/bdfe405905783b1307a4783d568f7fc9da89dc45
+
+
 [![School indico](https://indico.in2p3.fr/event/16864/logo-841635696.png)](https://indico.in2p3.fr/event/16864/)
 
 This repository contains all the material needed for the [2st
