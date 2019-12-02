@@ -30,3 +30,10 @@ SELECT
 FROM desi_photoz.main AS db
 WHERE 1=CONTAINS(POINT('ICRS', db.ra,db.dec),
 CIRCLE('ICRS', 3.7765, 14.2396, 100.0/3600.))
+
+
+Information on adding conda to path:
+
+https://docs.anaconda.com/anaconda/user-guide/faq/
+
+
