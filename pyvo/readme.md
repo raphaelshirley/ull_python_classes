@@ -1,4 +1,12 @@
+VO tools:
+
+Web interface:
+
 herschel-vos.phys.sussex.ac.uk
+
+TAP service:
+
+https://herschel-vos.phys.sussex.ac.uk/__system__/tap/run/tap
 
 
 
